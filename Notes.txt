@@ -1,0 +1,5 @@
+Fallback:-
+	The fallback machanism is triggered because the system service is now in maintanance or down.
+
+Circuit Breaker : 
+	The circuit breaker allows microservices to communicate as usual and monitor the number of failures 	occuring within the defined time period.
